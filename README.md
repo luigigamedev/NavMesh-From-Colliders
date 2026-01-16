@@ -6,4 +6,4 @@ These temporary meshes can then be used to bake a more accurate NavMesh.
 After baking, the tool restores the scene to its original state.
 
 Please, leave a review:
-[Asset Store Linke]([https://www.google.com](https://assetstore.unity.com/packages/slug/342124))
+[Asset Store Link](https://assetstore.unity.com/packages/slug/342124)
